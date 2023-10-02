@@ -7,23 +7,18 @@ This project was written for windows and for 2.5.3 hermes proxy.
 ## Install
 To use this repo, 
 0. First ensure that "Remember Account Name" is disabled in the game logon screen
-
 1. Ensure python is downloaded and installed.
-
 2. Navigate to your Wow directory
-
 3. Download the code above and ensure the files are placed inside your Wow directory.
-
 4. Open a terminal in this location and then install the requirements with:
- ```
- pip install -r requirements.txt
- ```
+```
+pip install -r requirements.txt
+```
 5. Ammend the config.yml file with your credentials.
-
 6. Edit the file "Start WoW TBC.bat" and add the following to the top! - Ensure it is before everything!
- ```bat
- start enter_credentials.pyw
- ```
+```bat
+start enter_credentials.pyw
+```
 7. Open the game how you would normally
 
 
