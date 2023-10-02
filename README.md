@@ -6,8 +6,8 @@ This project does store credentials in plain text for now - use this if security
 This project was written for windows and for 2.5.3 hermes proxy.
 
 ## Install
-0. First ensure that "Remember Account Name" is disabled in the game logon screen
-1. Ensure python is downloaded and installed.
+0. Ensure python is downloaded and installed.
+1. First ensure that "Remember Account Name" is disabled in the game logon screen
 2. Navigate to your Wow directory
 3. Download the code above and ensure the files are placed inside your Wow directory.
 4. Open a terminal in this location and then install the requirements with:
