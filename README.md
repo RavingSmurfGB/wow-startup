@@ -2,10 +2,10 @@
  The following repo is how to start wow client and maybe server
 
 This project does store credentials in plain text for now - use this if security is not your priority
+
 This project was written for windows and for 2.5.3 hermes proxy.
 
 ## Install
-To use this repo, 
 0. First ensure that "Remember Account Name" is disabled in the game logon screen
 1. Ensure python is downloaded and installed.
 2. Navigate to your Wow directory
