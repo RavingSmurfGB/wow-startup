@@ -1,5 +1,5 @@
-# wow-statrup
- The following repo is how to start wow client and maybe server
+# wow-startup
+ The following repo is how to automatically enter credentials into the classic 2.5.3 client 
 
 This project does store credentials in plain text for now - use this if security is not your priority
 
