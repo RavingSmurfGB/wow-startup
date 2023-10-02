@@ -9,7 +9,7 @@ This project was written for windows and for 2.5.3 hermes proxy.
 0. Ensure python is downloaded and installed.
 1. Then ensure that "Remember Account Name" is disabled in the game logon screen
 2. Navigate to your Wow directory
-3. Download the project from the Green Dropdown, then download Zip
+3. To download the project, Click above from the Green Dropdown, then download Zip
 4. Extract the files, not the folder into your Wow directory
 5. Open a terminal in this location and then install the requirements with:
 ```
